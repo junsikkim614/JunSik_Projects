@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>JunSik_Projects</name>
 	<comment></comment>
 	<projects>
@@ -7,5 +8,15 @@
 	<buildSpec>
 	</buildSpec>
 	<natures>
+=======
+	<name>SalesWalmartData</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+		<nature>org.jkiss.dbeaver.DBeaverNature</nature>
+>>>>>>> branch 'main' of https://github.com/junsikkim614/JunSik_Projects.git
 	</natures>
 </projectDescription>
